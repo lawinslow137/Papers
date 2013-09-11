@@ -1,0 +1,6 @@
+====nice test====
+
+* Wahoooo
+* Cool man
+*# what else
+<<<PICS/IMG159.jpg>>>

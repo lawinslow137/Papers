@@ -1,0 +1,808 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.11)  11 FEB 2013 22:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**jinst_v2.tex
+(./jinst_v2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(./JINST.cls
+Document Class: JINST 2006/07/11 v1.0.1 LaTeX document class - P.D.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\symforjmath=\mathgroup8
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/plain/misc/pdfcolor.tex)
+\titlesk@ja=\skip41
+\titlesk@jb=\skip42
+\titlesk@jc=\skip43
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\prev@t=\toks16
+\cur@t=\toks17
+\@firstaubox=\box26
+\addr@skip=\skip44
+\auth@skip=\skip45
+\Jcopy@date=\box27
+\Jspecial@url=\box28
+\Jpaper@url=\box29
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 809.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+\c@figure=\count86
+\c@table=\count87
+\c@OptionTest=\count88
+\@tmpbox=\box30
+\figbox=\box31
+\tabbox=\box32
+\pagebox=\box33
+\ffigcount=\count89
+\ftabcount=\count90
+\hangcount=\count91
+\nosuccesstryfig=\count92
+\nosuccesstrytab=\count93
+\figgutter=\dimen104
+\tabgutter=\dimen105
+\fl@wd=\dimen106
+\fl@ht=\dimen107
+\htdone=\dimen108
+\pageht=\dimen109
+\startpageht=\dimen110
+\floatfltwidth=\dimen111
+\fltitemwidth=\dimen112
+\outputpretest=\toks18
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\bibindent=\dimen113
+
+
+Class JINST Warning: ATTENTION!!! watermark disabled. Add it with pdftk (use co
+mpilaJINSTpdflatex for instance).
+
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+) (./jinst_v2.aux)
+\openout1 = `jinst_v2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\big@size=\dimen114
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen115
+\scratchbox=\box34
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen116
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+
+
+! Package ifpdf Error: Name clash, \ifpdf is already defined.
+
+See the ifpdf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173     }
+           %
+? 
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpg,.jpeg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 38
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 38
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 38
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 38
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+ [0
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
+
+No file jinst_v2.toc.
+\tf@toc=\write3
+\openout3 = `jinst_v2.toc'.
+
+
+LaTeX Warning: Citation `FormaggioMartoff' on page 1 undefined on input line 45
+.
+
+
+Overfull \hbox (4.07726pt too wide) in paragraph at lines 43--55
+\T1/ptm/m/n/10.95 Many neu-trino ex-per-i-ments have pub-lished re-sults of cos
+-mo-genic back-ground mea-sure-ments needed
+ []
+
+
+LaTeX Warning: Citation `pub1' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation `pub2' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation `offoff' on page 1 undefined on input line 82.
+
+Package epstopdf Info: Source file: <Lithium9DecayScheme.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7589 bytes
+(epstopdf)             Output file: <Lithium9DecayScheme-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 8396 bytes
+(epstopdf)             Command: <repstopdf --outfile=Lithium9DecayScheme-eps-co
+nverted-to.pdf Lithium9DecayScheme.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+<Lithium9DecayScheme-eps-converted-to.pdf, id=14, 569.12625pt x 339.2675pt>
+File: Lithium9DecayScheme-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Lithium9DecayScheme-eps-converted-to.pdf>
+Package pdftex.def Info: Lithium9DecayScheme-eps-converted-to.pdf used on input
+ line 94.
+(pdftex.def)             Requested size: 284.52756pt x 169.6178pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 96.
+
+
+LaTeX Warning: Reference `DecayScheme' on page 1 undefined on input line 100.
+
+! Undefined control sequence.
+l.105  in Table~\red
+                    {tab:states}.   The uncertainties associated with
+? 
+[1]
+
+LaTeX Warning: Citation `Prezado200355' on page 2 undefined on input line 128.
+
+
+LaTeX Warning: Citation `Prezado200355' on page 2 undefined on input line 128.
+
+
+LaTeX Warning: Citation `Prezado200355' on page 2 undefined on input line 133.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.134 \hline
+            
+? 
+! You can't use `\hrule' here except with leaders.
+\hline ->\noalign {\ifnum 0=`}\fi \hrule 
+                                         \@height \arrayrulewidth \futurelet...
+l.134 \hline
+            
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \futurelet 
+l.134 \hline
+            
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \futurelet 
+l.134 \hline
+            
+? 
+! Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.135 Sub-branch &
+                   BR & \delta BR & $E$ & $\delta E$ \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.135 Sub-branch & BR & \delta
+                               BR & $E$ & $\delta E$ \\
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.135 Sub-branch & BR & \delta BR &
+                                    $E$ & $\delta E$ \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.135 Sub-branch & BR & \delta BR &
+                                    $E$ & $\delta E$ \\
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.135 Sub-branch & BR & \delta BR &
+                                    $E$ & $\delta E$ \\
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148  \section{Results}
+                        
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148  \section{Results}
+                        
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.148  \section{Results}
+                        
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.148  \section{Results}
+                        
+? 
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.148  \section{Results}
+                        
+? 
+! Missing { inserted.
+<inserted text> 
+                {
+l.148  \section{Results}
+                        
+? 
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 156.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \subsection{Paricle Level}
+                                
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \subsection{Paricle Level}
+                                
+? 
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 \begin{figure}[htp]
+                         
+? 
+Package epstopdf Info: Source file: <a_n_beta_spect_c2.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9754 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c2-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10494 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c2-eps-conv
+erted-to.pdf a_n_beta_spect_c2.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+<a_n_beta_spect_c2-eps-converted-to.pdf, id=26, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c2-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c2-eps-converted-to.pdf used on input l
+ine 181.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <a_n_beta_spect_c3.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9030 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10303 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c3-eps-conv
+erted-to.pdf a_n_beta_spect_c3.eps>
+(epstopdf)             \includegraphics on input line 183.
+Package epstopdf Info: Output file is already uptodate.
+
+<a_n_beta_spect_c3-eps-converted-to.pdf, id=27, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c3-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c3-eps-converted-to.pdf used on input l
+ine 183.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <a_n_beta_spect_c4.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10056 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c4-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10756 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c4-eps-conv
+erted-to.pdf a_n_beta_spect_c4.eps>
+(epstopdf)             \includegraphics on input line 185.
+Package epstopdf Info: Output file is already uptodate.
+
+<a_n_beta_spect_c4-eps-converted-to.pdf, id=28, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c4-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c4-eps-converted-to.pdf used on input l
+ine 185.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <a_n_beta_spect_c5.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10127 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c5-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10753 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c5-eps-conv
+erted-to.pdf a_n_beta_spect_c5.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<a_n_beta_spect_c5-eps-converted-to.pdf, id=29, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c5-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c5-eps-converted-to.pdf used on input l
+ine 187.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <a_n_beta_spect_c6.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10671 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c6-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 11027 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c6-eps-conv
+erted-to.pdf a_n_beta_spect_c6.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<a_n_beta_spect_c6-eps-converted-to.pdf, id=30, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c6-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c6-eps-converted-to.pdf used on input l
+ine 189.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <a_n_beta_spect_c7.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 10885 bytes
+(epstopdf)             Output file: <a_n_beta_spect_c7-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 11079 bytes
+(epstopdf)             Command: <repstopdf --outfile=a_n_beta_spect_c7-eps-conv
+erted-to.pdf a_n_beta_spect_c7.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+
+<a_n_beta_spect_c7-eps-converted-to.pdf, id=31, 569.12625pt x 350.30875pt>
+File: a_n_beta_spect_c7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use a_n_beta_spect_c7-eps-converted-to.pdf>
+Package pdftex.def Info: a_n_beta_spect_c7-eps-converted-to.pdf used on input l
+ine 191.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 \subsection{Detector Level}
+                                 
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 \subsection{Detector Level}
+                                 
+? 
+Package epstopdf Info: Source file: <MC_Li_10.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9376 bytes
+(epstopdf)             Output file: <MC_Li_10-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7809 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_10-eps-converted-to.
+pdf MC_Li_10.eps>
+(epstopdf)             \includegraphics on input line 254.
+Package epstopdf Info: Output file is already uptodate.
+<MC_Li_10-eps-converted-to.pdf, id=32, 569.12625pt x 350.30875pt>
+File: MC_Li_10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_10-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_10-eps-converted-to.pdf used on input line 254.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <MC_Li_12.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9517 bytes
+(epstopdf)             Output file: <MC_Li_12-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7814 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_12-eps-converted-to.
+pdf MC_Li_12.eps>
+(epstopdf)             \includegraphics on input line 256.
+Package epstopdf Info: Output file is already uptodate.
+
+<MC_Li_12-eps-converted-to.pdf, id=33, 569.12625pt x 350.30875pt>
+File: MC_Li_12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_12-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_12-eps-converted-to.pdf used on input line 256.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <MC_Li_13.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9534 bytes
+(epstopdf)             Output file: <MC_Li_13-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7765 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_13-eps-converted-to.
+pdf MC_Li_13.eps>
+(epstopdf)             \includegraphics on input line 258.
+Package epstopdf Info: Output file is already uptodate.
+
+<MC_Li_13-eps-converted-to.pdf, id=34, 569.12625pt x 350.30875pt>
+File: MC_Li_13-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_13-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_13-eps-converted-to.pdf used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <MC_Li_20.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9401 bytes
+(epstopdf)             Output file: <MC_Li_20-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7639 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_20-eps-converted-to.
+pdf MC_Li_20.eps>
+(epstopdf)             \includegraphics on input line 260.
+Package epstopdf Info: Output file is already uptodate.
+
+<MC_Li_20-eps-converted-to.pdf, id=35, 569.12625pt x 350.30875pt>
+File: MC_Li_20-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_20-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_20-eps-converted-to.pdf used on input line 260.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <MC_Li_21.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9399 bytes
+(epstopdf)             Output file: <MC_Li_21-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7826 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_21-eps-converted-to.
+pdf MC_Li_21.eps>
+(epstopdf)             \includegraphics on input line 262.
+Package epstopdf Info: Output file is already uptodate.
+
+<MC_Li_21-eps-converted-to.pdf, id=36, 569.12625pt x 350.30875pt>
+File: MC_Li_21-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_21-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_21-eps-converted-to.pdf used on input line 262.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+Package epstopdf Info: Source file: <MC_Li_22.eps>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 9520 bytes
+(epstopdf)             Output file: <MC_Li_22-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-01-19 00:04:09
+(epstopdf)                    size: 7763 bytes
+(epstopdf)             Command: <repstopdf --outfile=MC_Li_22-eps-converted-to.
+pdf MC_Li_22.eps>
+(epstopdf)             \includegraphics on input line 264.
+Package epstopdf Info: Output file is already uptodate.
+
+<MC_Li_22-eps-converted-to.pdf, id=37, 569.12625pt x 350.30875pt>
+File: MC_Li_22-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MC_Li_22-eps-converted-to.pdf>
+Package pdftex.def Info: MC_Li_22-eps-converted-to.pdf used on input line 264.
+(pdftex.def)             Requested size: 170.71652pt x 105.0774pt.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 \section{Conclusions}
+                           
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 \section{Conclusions}
+                           
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.283 \acknowledgments
+                      
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.283 \acknowledgments
+                      
+? 
+(./jinst_v2.bbl
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{thebibliography}{1}
+                              
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{thebibliography}{1}
+                              
+? 
+)
+
+! LaTeX Error: \begin{tabular} on input line 131 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Ty
