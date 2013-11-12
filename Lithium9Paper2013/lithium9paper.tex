@@ -105,6 +105,15 @@ comparison of
  \end{figure}
 
 
+\begin{figure}[t]
+  
+  \includegraphics[scale=0.65]{HelliumDecayScheme.pdf}
+  \label{he8_diagram}
+  \caption{An energy level schematic of the \he decay scheme. }
+  
+\end{figure}
+
+
  \begin{figure}[t]
  \begin{center}
   \includegraphics[scale=0.65]{tmp_xfig.eps}
@@ -138,6 +147,8 @@ uncertainties as well. We have done a literature review and decided to highlight
 
 The states are presented in tables ~\ref{tabgs} to ~\ref{tab5}. We would also like to note the experimental interest in the \beNINE decay excited states stems from the fact that such states are important for three-body 
 $ \alpha + \alpha +n $ reactions in astrophysics.
+
+Below we explain the functionality of the generator taking \li as an example.
 
 \subsection*{\it Beta-decay}
 
@@ -175,20 +186,10 @@ from the literature shown.
 
 In the same spirit, we decided to investigate decay routes for the other important,
 but less signficant, cosmogenic isotope \he \footnote{As published by KamLAND,\he is expected to be a $\sim$ 10\% contamination
-to the \li, ~\cite{PhysRevC.81.025807}.}. In tables~\ref{tabHE} are the different decay
-branches for the \he.
+to the \li, ~\cite{PhysRevC.81.025807}.}. Tables~\ref{tab_he:betaStates}to~\ref{tab_he_5} show the different decay
+branches for the \he. The states are illustrated in the schematic diagram ~\ref{he8_diagram}.
 
 
-
-
-
-
-...
-%the decay states of \li and \he, as presented in 
-% in Table~\red{tab:states}.   The uncertainties associated with
-%these are also taken into account {\bf what does this mean?}.  
-
- 
 
 
 \begin{table}[tb]
@@ -623,9 +624,6 @@ Double Chooz detector
     \includegraphics[width=70mm]{a_n_beta_spect_c13.eps} &
    
    
-    \includegraphics[width=70mm]{a_n_beta_spect_c14.eps} \\
-
-    \includegraphics[width=70mm]{a_n_beta_spect_c15.eps}\\
     
     
       \end{tabular}
@@ -637,19 +635,45 @@ Double Chooz detector
      \centering
    
   \begin{tabular}{cc}
+    \includegraphics[width=70mm]{a_n_beta_spect_c14.eps}&
+
+    \includegraphics[width=70mm]{a_n_beta_spect_c15.eps}\\
     \includegraphics[width=70mm]{a_n_beta_spect_c16.eps}&
 
     \includegraphics[width=70mm]{a_n_beta_spect_c17.eps}\\
-    \includegraphics[width=70mm]{a_n_beta_spect_c18.eps}&
-
-    \includegraphics[width=70mm]{a_n_beta_spect_c19.eps}\\
     
-    \includegraphics[width=70mm]{a_n_beta_spect_c20.eps}&
+    \includegraphics[width=70mm]{a_n_beta_spect_c18.eps}&
    
     \end{tabular}
      \caption{Particle level energy distributions for the decay of the \beNINE 11.81 MeV state.}
     \end{figure}
        
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   \begin{figure}[htp]
+     \centering
+   
+  \begin{tabular}{cc}
+    \includegraphics[width=70mm]{a_n_beta_spect_c1_8He.pdf}&
+
+    \includegraphics[width=70mm]{a_n_beta_spect_c2_8He.pdf}\\
+    \includegraphics[width=70mm]{a_n_beta_spect_c3_8He.pdf}&
+
+    \includegraphics[width=70mm]{a_n_beta_spect_c4_8He.pdf}\\
+    
+    \includegraphics[width=70mm]{a_n_beta_spect_c5_8He.pdf}&
+    
+      \includegraphics[width=70mm]{a_n_beta_spect_c6_8He.pdf}\\
+      
+   
+    \end{tabular}
+     \caption{Particle level energy distributions for the decay of the following states in \liEIGHT: \liEIGHT(0.981) ,\liEIGHT(3.21) ,\liEIGHT(5.4) ,\liEIGHT(9.67).}
+    \end{figure}
+       
+
+
+
        
        For the particle level results the generator was run with the "one branch" switch illustrated in fig.~\ref{PartDetDiagram},
        in such mode of the generator each branch/subbranch is specifically selected and generated with 100\% probability.
@@ -785,9 +809,10 @@ Double Chooz detector
 
 \acknowledgments
 
-       We acknowledge the support of the Pays de La Loire grant XXXX and MIT grant XXXX. M. E.  would
-       like to specifically thank Dr. Muriel Fallot and the ERDRE team at the EMN/IN2P3/CNRS funded laboratory SUBATECH in France 
-       for their hospitality and support.
+       We acknowledge the support of the Pays de La Loire grant XXXX and MIT grant XXXX. 
+       %M. E.  would
+       %like to specifically thank Dr. Muriel Fallot and the ERDRE team at the EMN/IN2P3/CNRS funded laboratory SUBATECH in France 
+       %for their hospitality and support.
 
 
 \bibliography{mybib}{}
